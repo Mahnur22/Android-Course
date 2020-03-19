@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="324e2232-ab48-49a4-ad10-2a43ab5c17a0" name="Default Changelist" comment="" />
+    <list default="true" id="324e2232-ab48-49a4-ad10-2a43ab5c17a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Z2Ph6bbrcCuTnFIIXhNZZAUVGe" />
   <component name="ProjectViewState">
@@ -26,7 +32,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Lecture2">
+  <component name="RunManager" selected="Application.Lecture3">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="Java practice" />
@@ -41,8 +47,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lecture3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture3" />
+      <module name="Java practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lecture3" />
         <item itemvalue="Application.Lecture2" />
         <item itemvalue="Application.HelloWorld" />
       </list>
@@ -66,22 +80,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1584034435895" />
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1584122732044">
+    <state width="1323" height="371" key="GridCell.Tab.0.bottom" timestamp="1584641384258">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584122732044" />
-    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1584122732044">
+    <state width="1323" height="371" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584641384258" />
+    <state width="1323" height="371" key="GridCell.Tab.0.center" timestamp="1584641384258">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584122732044" />
-    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1584122732044">
+    <state width="1323" height="371" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584641384258" />
+    <state width="1323" height="371" key="GridCell.Tab.0.left" timestamp="1584641384258">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584122732044" />
-    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1584122732044">
+    <state width="1323" height="371" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584641384258" />
+    <state width="1323" height="371" key="GridCell.Tab.0.right" timestamp="1584641384258">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584122732044" />
+    <state width="1323" height="371" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584641384258" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584637664405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584637664405" />
     <state x="65" y="0" key="new project wizard" timestamp="1584035520863">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

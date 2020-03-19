@@ -6,7 +6,6 @@ public class Lecture2 {
         Scanner input = new Scanner(System.in);
 
 
-
       /*  System.out.println("Enter your name and age:");
         String name = input.nextLine();
         int age = input.nextInt();
@@ -16,6 +15,7 @@ public class Lecture2 {
         int count = input.nextInt();
 
         for (int i = 1;i<=count; i=i+2){
+
             System.out.println(i);
         }
 
