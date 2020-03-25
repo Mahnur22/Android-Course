@@ -10,17 +10,28 @@ public class Lecture3 {
             }
         }*/
 
-       int array [] = new int[10];
+        int array[] = new int[10];
 
-       //array [1] =10;
+        //array [1] =10;
 
 
         //int count = input.nextInt();
 
-        for (int i = 0; i < array.length ; i++) {
+        for (int i = 0; i < array.length; i++) {
             System.out.println("Take your input:");
             array[i] = input.nextInt();
-            System.out.println("Your output is: " +array[i]);
+
         }
+     String store = "";
+       /* for (int element : array) {
+            System.out.println("your output is:" +element);
+
+        }*/
+        for (int i = 0; i < array.length; i++) {
+        store = store+" "+String.valueOf(array[i]);
+
+        }
+        System.out.println("your output is:" + store);
+
     }
 }
